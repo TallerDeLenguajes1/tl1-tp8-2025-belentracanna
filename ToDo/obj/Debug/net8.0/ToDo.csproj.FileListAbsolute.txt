@@ -1,0 +1,15 @@
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\bin\Debug\net8.0\ToDo.exe
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\bin\Debug\net8.0\ToDo.deps.json
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\bin\Debug\net8.0\ToDo.runtimeconfig.json
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\bin\Debug\net8.0\ToDo.dll
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\bin\Debug\net8.0\ToDo.pdb
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ToDo.dll
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ToDo.pdb
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
+C:\taller1\tl-TP8-2025-tracanna\tl1-tp8-2025-belentracanna\ToDo\obj\Debug\net8.0\ref\ToDo.dll
