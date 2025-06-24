@@ -95,6 +95,9 @@ internal class Program
         {
             Console.WriteLine($" _ Ingrese la descripcion de la tareas {i + 1}:");
             string descripcion = Console.ReadLine();
+
+            // UNA VARIABLE VAR DEBE SER INICIALIALIZADA EN LA MISMA LINEA DONDE SE DECLARA
+            // NO PUEDES DECLARAR VAR TAREA ; Y LUEGO ASIGNARLE UN VALOR.
             var tarea = new Tarea
             {
                 TareaID = i + 1,
